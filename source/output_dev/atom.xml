@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[New Player]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-01-23T16:07:37-08:00</updated>
+    <id>/</id>
+            <author>
+            <name><![CDATA[The New Group]]></name>                    </author>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Powerful, flexible content delivery]]></title>
+            <link href="/content/_posts/1-highlight.md"/>
+            <updated>2015-01-23T16:07:37-08:00</updated>
+            <id>/content/_posts/1-highlight.md</id>
+            <content type="html"><![CDATA[<div class="col3">
+
+<p><a href="#"><img src="/images/github.png" alt="View on GitHub" /></a>
+View on Github</p>
+
+</div>
+
+<div class="col3">
+
+<p><a href="#"><img src="/images/download.png" alt="Download" /></a>
+Direct Download</p>
+
+</div>
+
+<h2>Why New Player?</h2>
+
+<p class="maintext">hipster house Tasty &amp; Sons stripclubs IPA clouds Hawthorne breweries farm to table DIY secular humanists put a bird on it
+tulips Pearl District Saturday Market brewvana. James Mercer more rain indie rock microbrew tall bikes no, you go zinester
+nanobrewery vibrant Burnside gluten free The Bins unicycling with. </p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[]]></title>
+            <link href="/content/_posts/2-examples.md"/>
+            <updated>2015-01-23T16:07:37-08:00</updated>
+            <id>/content/_posts/2-examples.md</id>
+            <content type="html"><![CDATA[<h2>Examples</h2>
+
+<p class="subtext">hipster house Tasty &amp; Sons stripclubs IPA clouds Hawthorne breweries farm to table DIY secular humanists put a bird on it
+tulips Pearl District Saturday Market brewvana. James Mercer more rain indie rock microbrew tall bikes no, you go zinester 
+nanobrewery vibrant Burnside gluten free The Bins unicycling with bagpipes and Darth Vader mask Belmont Hood to Coast IPA.</p>
+
+<div class="col3">
+
+<p><a href="#"><img src="/images/examples.jpg" alt="Download" /></a></p>
+
+</div>
+
+<div class="col3">
+
+<p><a href="#"><img src="/images/examples.jpg" alt="Download" /></a></p>
+
+</div>
+
+<div class="col3">
+
+<p><a href="#"><img src="/images/examples.jpg" alt="Download" /></a></p>
+
+</div>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[]]></title>
+            <link href="/content/_posts/3-code.md"/>
+            <updated>2015-01-23T16:07:37-08:00</updated>
+            <id>/content/_posts/3-code.md</id>
+            <content type="html"><![CDATA[<div class="col4 left-text">
+
+<h3>Beauty and simplicity</h3>
+
+<p>hipster house Tasty &amp; Sons stripclubs IPA clouds Hawthorne breweries farm to table DIY secular humanists put a bird on it tulips Pearl District Saturday Market brewvana. James Mercer more rain indie rock microbrew tall bikes no, you go zinester nanobrewery vibrant Burnside</p>
+
+<h3>How to use</h3>
+
+<p>hipster house Tasty &amp; Sons stripclubs IPA clouds Hawthorne breweries farm to table DIY secular humanists put a bird on it tulips Pearl District Saturday Market brewvana. James Mercer more rain indie rock microbrew tall bikes no, you go zinester nanobrewery vibrant Burnside gluten free The Bins unicycling with bagpipes and Darth Vader mask Belmont Hood to Coast IPA.</p>
+
+<h3>Snippets</h3>
+
+<p>hipster house Tasty &amp; Sons stripclubs IPA clouds Hawthorne breweries farm to table DIY secular humanists put a bird on it tulips Pearl District Saturday Market brewvana.</p>
+
+</div>
+
+<div class="col6">
+
+<pre><code>&lt;div class="container"&gt;
+    &lt;div class="main" ng-class="{'cover':coverSupported}"&gt;
+        &lt;div ui-view="init" autoscroll='true'&gt;
+            &lt;div class="preloader"&gt;
+                &lt;em class="fa fa-refresh fa-spin"&gt;
+                &lt;/em&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script src="bower_components/angular/angular.js"&gt;&lt;/script&gt;
+&lt;script src="bower_components/ui-router/release/angular-ui-router.js"&gt;&lt;/script&gt;
+&lt;script src="bower_components/angular-sanitize/angular-sanitize.js"&gt;&lt;/script&gt;
+&lt;script src="bower_components/oclazyload/dist/ocLazyLoad.min.js"&gt;&lt;/script&gt;
+&lt;script src="bower_components/angular-touch/angular-touch.js"&gt;&lt;/script&gt;
+
+&lt;script src="scripts/api/APIService.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/api/ConfigService.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/manifest/ManifestService.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/manifest/ManifestCtrl.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/component/ComponentService.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/component/ComponentDirective.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/Router.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/AppCtrl.js"&gt;&lt;/script&gt;
+&lt;script src="scripts/main.js"&gt;&lt;/script&gt;
+</code></pre>
+
+</div>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[]]></title>
+            <link href="/content/_posts/4-questions.md"/>
+            <updated>2015-01-23T16:07:37-08:00</updated>
+            <id>/content/_posts/4-questions.md</id>
+            <content type="html"><![CDATA[<h2>Resources</h2>
+
+<p>hipster house Tasty &amp; Sons stripclubs IPA clouds Hawthorne breweries farm to table DIY secular humanists put a bird on it tulips Pearl District Saturday Market brewvana. James Mercer more rain indie rock microbrew tall bikes no, you go zinester nanobrewery vibrant Burnside gluten free The Bins unicycling with bagpipes and Darth Vader mask Belmont Hood to Coast IPA.</p>
+
+<h2>Questions</h2>
+
+<p><a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#99;&#111;&#x6e;&#x74;&#x61;&#99;&#116;&#x75;&#x73;&#x40;&#110;&#101;&#x77;&#x70;&#x6c;&#97;&#121;&#x65;&#x72;&#x2e;&#99;&#111;&#x6d;">&#99;&#111;&#x6e;&#x74;&#x61;&#99;&#116;&#x75;&#x73;&#x40;&#110;&#101;&#x77;&#x70;&#x6c;&#97;&#121;&#x65;&#x72;&#x2e;&#99;&#111;&#x6d;</a></p>
+
+<p>Phone: 503-248-4505 | Email info@newplayer.com</p>
+]]></content>
+        </entry>
+    </feed>

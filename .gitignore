@@ -1,0 +1,6 @@
+/.sculpin/
+/app/cache/*
+/app/logs/*
+/output_*/
+/source/components/
+s3.conf

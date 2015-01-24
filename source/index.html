@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+use:
+    - posts
+---
+{% for post in data.posts %}
+    <article>
+        {% if post.title %}
+            <header>
+                {% if post.meta.credit %}
+                    <h2>{{ post.title }}</h2> <p class="subhead">{{ post.subtitle }} by <a href="http://www.thenewgroup.com">The New Group</a></p>
+                {% else %}
+                    <h2>{{ post.title }}</h2> {{ post.subtitle }}
+                {% endif %}
+            </header>
+        {% endif %}
+        <div class="{{ post.classes }}">
+            {{ post.blocks.content|raw }}
+        </div>
+    </article>
+{% endfor %}
